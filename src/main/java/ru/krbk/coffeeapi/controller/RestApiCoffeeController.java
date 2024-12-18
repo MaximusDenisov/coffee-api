@@ -1,8 +1,10 @@
-package ru.krbk.coffeeapi;
+package ru.krbk.coffeeapi.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import ru.krbk.coffeeapi.repository.CoffeeRepository;
+import ru.krbk.coffeeapi.entity.Coffee;
 
 import java.util.List;
 import java.util.Optional;

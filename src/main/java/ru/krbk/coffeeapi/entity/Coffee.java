@@ -1,4 +1,4 @@
-package ru.krbk.coffeeapi;
+package ru.krbk.coffeeapi.entity;
 
 import jakarta.persistence.*;
 
