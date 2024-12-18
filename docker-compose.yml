@@ -6,5 +6,5 @@ services:
     build: .
     container_name: spring-container
     ports:
-      - "4322:4322"
+      - "4323:4323"
     restart: always
